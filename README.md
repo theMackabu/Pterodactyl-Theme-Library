@@ -8,14 +8,14 @@ How do i use them?
 You simple follow the instructions below, mainly consisting of two or three changes you need to make before you build your panel.
 
 
-## Enola
+## Enola - 1.2.0
 Instructions to install the theme Enola are here
 [Enola 1.2.0](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.0-Enola)
 ![Preview](./preview/enola.png)
 
 
-## Enola
-Instructions to install the theme Enola are here
+## Twilight - 1.1.3
+Instructions to install the theme Twilight are here
 [Twilight 1.1.3](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.1.3-Twilight)
 ![Preview](./preview/twilight.png)
 
