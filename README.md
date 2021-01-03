@@ -20,5 +20,4 @@ Instructions to install the theme Twilight are here
 ![Preview](./preview/twilight.png)
 
 
-## New Themes every week!!
 ## If you have suggestions or issues dm me on discord, notil#9999.
