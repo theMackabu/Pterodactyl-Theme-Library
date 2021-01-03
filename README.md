@@ -8,4 +8,5 @@ How do i use them?
 You simple follow the instructions below, mainly consisting of two or three changes you need to make before you build your panel.
 
 
-## More Coming Soon!
+## New Themes every week!!
+## If you have suggestions or issues dm me on discord, notil#9999.
