@@ -460,7 +460,6 @@ select {
 	border-top-color: #3F778A !important;
 }
 
-
 /* Removes border */
 
 .box-footer,
@@ -476,4 +475,10 @@ hr {
 .table>tbody>tr>td,
 .table>tfoot>tr>td {
 	background-color: #203A43 !important;
+}
+
+/* Removes port bubble */
+
+#app > div.App___StyledDiv-sc-2l91w7-0.fnfeQw > div.Fade__Container-sc-1p0gm8n-0.hcgQjy > section > div.ContentContainer-x3r2dw-0.PageContentBlock___StyledContentContainer-kbxq2g-0.hiUzTH.ckLneN.ServerConsole___StyledServerContentBlock-sc-1j2y518-0.hlbvqz.fade-appear-done.fade-enter-done > div.ServerConsole___StyledDiv-sc-1j2y518-1.dfrjYE > div.TitledGreyBox___StyledDiv-gvsoy-0.kGXByO.ServerDetailsBlock___StyledTitledGreyBox-sc-168cvuh-0.dQCdoR > div.TitledGreyBox___StyledDiv3-gvsoy-4.fIhPZJ > p.ServerDetailsBlock___StyledP2-sc-168cvuh-3.wOPxU.CopyOnClick___StyledCopyToClipboard-sc-7pjzdv-1.knscqo > code {
+	background: #192E35 !important;
 }
