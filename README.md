@@ -11,7 +11,7 @@ You simple follow the instructions below, mainly consisting of two or three chan
 ## Enola
 Instructions to install the theme Enola are here
 [Enola 1.2.0](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.0-Enola)
-
+![Preview](./1.2.0/Enola/Screenshot_1.png)
 
 ## New Themes every week!!
 ## If you have suggestions or issues dm me on discord, notil#9999.
