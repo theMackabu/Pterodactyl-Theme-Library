@@ -7,7 +7,16 @@
 
 /* Changes Header Color */
 
-.ebtnLL, .cWFcHc, .iTxXDX, .JZicT, .skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side, .skin-blue .main-header .navbar, .skin-blue .main-header .logo, .main-footer {
+.ebtnLL,
+.cWFcHc,
+.iTxXDX,
+.JZicT,
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side,
+.skin-blue .main-header .navbar,
+.skin-blue .main-header .logo,
+.main-footer {
 	background-color: #203A43 !important;
 	border-color: transparent !important;
 	box-shadow: none !important;
@@ -16,7 +25,26 @@
 
 /* Changes selected tab color */
 
-.fmPgAW>a:active, .fmPgAW>.navigation-link:active, .fmPgAW>a:hover, .fmPgAW>.navigation-link:hover, .fmPgAW>a.active, .fmPgAW>.navigation-link.active, .cWFcHc>div>a:active, .cWFcHc>div>div:active, .cWFcHc>div>a.active, .cWFcHc>div>div.active, .jMDToC > a:active, .jMDToC > .navigation-link:active, .jMDToC > a:hover, .jMDToC > .navigation-link:hover, .jMDToC > a.active, .jMDToC > .navigation-link.active, .JZicT > div > a:active, .JZicT > div > div:active, .JZicT > div > a.active, .JZicT > div > div.active {
+.fmPgAW>a:active,
+.fmPgAW>.navigation-link:active,
+.fmPgAW>a:hover,
+.fmPgAW>.navigation-link:hover,
+.fmPgAW>a.active,
+.fmPgAW>.navigation-link.active,
+.cWFcHc>div>a:active,
+.cWFcHc>div>div:active,
+.cWFcHc>div>a.active,
+.cWFcHc>div>div.active,
+.jMDToC>a:active,
+.jMDToC>.navigation-link:active,
+.jMDToC>a:hover,
+.jMDToC>.navigation-link:hover,
+.jMDToC>a.active,
+.jMDToC>.navigation-link.active,
+.JZicT>div>a:active,
+.JZicT>div>div:active,
+.JZicT>div>a.active,
+.JZicT>div>div.active {
 	box-shadow: #3F778A 0px -2px inset !important;
 	background-color: #203A43 !important;
 }
@@ -24,14 +52,40 @@
 
 /* Changes Text Color */
 
-.fNmetC, .hcJQtJ, .ToRTP, .dPhkRJ, .cKOMAz, .jSyjnD, .jywpgX, .eFKDEh, .dUzAFF, .cbFifO, .farUaV, .dMZZHB,.lgYuLu, .gSUxYg, .cdBzyv, .gxlLzB, .jexamK, .eWxPIu, .eWxPIu:hover, .jXGwrM, .mIIYh, .iambCQ, .iZqkRd, .chAlWS, .iTwxpv, .skin-blue .main-header .logo {
+.fNmetC,
+.hcJQtJ,
+.ToRTP,
+.dPhkRJ,
+.cKOMAz,
+.jSyjnD,
+.jywpgX,
+.eFKDEh,
+.dUzAFF,
+.cbFifO,
+.farUaV,
+.dMZZHB,
+.lgYuLu,
+.gSUxYg,
+.cdBzyv,
+.gxlLzB,
+.jexamK,
+.eWxPIu,
+.eWxPIu:hover,
+.jXGwrM,
+.mIIYh,
+.iambCQ,
+.iZqkRd,
+.chAlWS,
+.iTwxpv,
+.skin-blue .main-header .logo {
 	color: #fafafa !important;
 }
 
 
 /* Changes disabled switch */
 
-.gdhLjd>label, .cDmYBr > label {
+.gdhLjd>label,
+.cDmYBr>label {
 	background-color: #203A43 !important;
 	border-color: #203A43 !important;
 }
@@ -39,7 +93,8 @@
 
 /* Changes enabled switch */
 
-.gdhLjd>input[type="checkbox"]:checked+label, .cDmYBr > input[type="checkbox"]:checked + label {
+.gdhLjd>input[type="checkbox"]:checked+label,
+.cDmYBr>input[type="checkbox"]:checked+label {
 	background-color: #3F778A !important;
 	border-color: #3F778A !important;
 }
@@ -47,7 +102,13 @@
 
 /* Changes server list color */
 
-.liBonM, .bOIdGn, .jkiDvQ, .iYhzbi, .jqQFoq, .bEKRkc, .dRhlIo {
+.liBonM,
+.bOIdGn,
+.jkiDvQ,
+.iYhzbi,
+.jqQFoq,
+.bEKRkc,
+.dRhlIo {
 	background-color: #203A43 !important;
 	border-radius: 15px !important;
 	border-color: #203A43 !important;
@@ -56,14 +117,23 @@
 
 /* Changes border when hover */
 
-.liBonM:hover, .kHuGmn:hover, .dRhlIo:hover, .bEKRkc:hover {
+.liBonM:hover,
+.kHuGmn:hover,
+.dRhlIo:hover,
+.bEKRkc:hover {
 	border-color: #3F778A !important;
 }
 
 
 /* Changes status bar position and size */
 
-.jkiDvQ .status-bar, .bvinzM .status-bar, .iYhzbi .status-bar, .liBonM .status-bar, .jqQFoq .status-bar,.bEKRkc .status-bar, .dRhlIo .status-bar {
+.jkiDvQ .status-bar,
+.bvinzM .status-bar,
+.iYhzbi .status-bar,
+.liBonM .status-bar,
+.jqQFoq .status-bar,
+.bEKRkc .status-bar,
+.dRhlIo .status-bar {
 	height: 7vw !important;
 	right: -.25vw !important;
 }
@@ -71,7 +141,22 @@
 
 /* Changes Installing Status, and other bubble text */
 
-.hNrKxe, .dMZZHB, .dHRxAp, .epSLdr, .bsrsDD, .ffSVrP, .fZqvbJ, .fLfaAY, .bsSkeI, .jIIIrT, .EwfIk, .izAmwE, code, .select2-container--default .select2-selection--multiple .select2-selection__choice, .select2-search--inline .select2-search__field:focus, .select2-container--default .select2-search--inline .select2-search__field {
+.hNrKxe,
+.dMZZHB,
+.dHRxAp,
+.epSLdr,
+.bsrsDD,
+.ffSVrP,
+.fZqvbJ,
+.fLfaAY,
+.bsSkeI,
+.jIIIrT,
+.EwfIk,
+.izAmwE,
+code,
+.select2-container--default .select2-selection--multiple .select2-selection__choice,
+.select2-search--inline .select2-search__field:focus,
+.select2-container--default .select2-search--inline .select2-search__field {
 	border-radius: 15px;
 	background-color: #3F778A !important;
 	border-color: #3F778A !important;
@@ -81,14 +166,21 @@
 
 /* Changes server icons */
 
-.kHuGmn .icon, .jkiDvQ .icon, .bvinzM .icon, .iYhzbi .icon, .liBonM .icon, .jqQFoq .icon, .dRhlIo .icon {
+.kHuGmn .icon,
+.jkiDvQ .icon,
+.bvinzM .icon,
+.iYhzbi .icon,
+.liBonM .icon,
+.jqQFoq .icon,
+.dRhlIo .icon {
 	background-color: #3F778A !important;
 }
 
 
 /* Changes account settings area */
 
-.hfBvRz, .fenved {
+.hfBvRz,
+.fenved {
 	border-radius: 15px;
 	background-color: #203A43 !important;
 	border-color: #3F778A !important;
@@ -97,7 +189,32 @@
 
 /* Changes input areas */
 
-.eDhiE:not([type="checkbox"]):not([type="radio"]), .lepTyw:not([type="checkbox"]):not([type="radio"]), .eDhiE[type="checkbox"], .eDhiE[type="radio"], .hDlyZJ:not(.disabled):hover, .farUaV, .iZMsvi, .iYSUfg, .cKwXAB, .ixeRNi:hover, .jVkAsT:not([type="checkbox"]):not([type="radio"]), .kmvYjP:not([type="checkbox"]):not([type="radio"]), .hsUiOF, .jrraLb, .icxFlO:hover, .gYNKkb, .elUIig:hover, .ekbHAG, .btn-primary, .btn-warning, .btn-success, .alert-danger, pre, .input-group .input-group-addon, .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--multiple{
+.eDhiE:not([type="checkbox"]):not([type="radio"]),
+.lepTyw:not([type="checkbox"]):not([type="radio"]),
+.eDhiE[type="checkbox"],
+.eDhiE[type="radio"],
+.hDlyZJ:not(.disabled):hover,
+.farUaV,
+.iZMsvi,
+.iYSUfg,
+.cKwXAB,
+.ixeRNi:hover,
+.jVkAsT:not([type="checkbox"]):not([type="radio"]),
+.kmvYjP:not([type="checkbox"]):not([type="radio"]),
+.hsUiOF,
+.jrraLb,
+.icxFlO:hover,
+.gYNKkb,
+.elUIig:hover,
+.ekbHAG,
+.btn-primary,
+.btn-warning,
+.btn-success,
+.alert-danger,
+pre,
+.input-group .input-group-addon,
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-selection--multiple {
 	border-color: #3F778A !important;
 	background-color: #0F2229 !important;
 	border-radius: 15px !important;
@@ -106,7 +223,15 @@
 
 /* Changes header-upper */
 
-.kwjWaB, .grusjm, .cswOgL, .cnbtLx, .bPeJFv, .bWXUsX, .nav-tabs-custom.nav-tabs-floating > .nav-tabs, .box-header.with-border, .bg-gray  {
+.kwjWaB,
+.grusjm,
+.cswOgL,
+.cnbtLx,
+.bPeJFv,
+.bWXUsX,
+.nav-tabs-custom.nav-tabs-floating>.nav-tabs,
+.box-header.with-border,
+.bg-gray {
 	border-color: #3F778A !important;
 	background-color: #203A43 !important;
 	border-radius: 15px !important;
@@ -116,7 +241,11 @@
 
 /* Changes header-lower,  */
 
-.ifNwiE, .LdCMD, .fIhPZJ, .cFegvH, .box-body{
+.ifNwiE,
+.LdCMD,
+.fIhPZJ,
+.cFegvH,
+.box-body {
 	border-color: transparent !important;
 	background-color: #192E35 !important;
 	border-radius: 15px !important;
@@ -125,7 +254,19 @@
 
 /* Hides background of radial areas */
 
-.RkKIC, .cRDvbO, .dmLxWB, .gLxIAb, .gHwjbw, .WUPIv, .dQCdoR, .vtEGy, .kGXByO, .nav-tabs-custom, .box, .box-footer, .small-box>.small-box-footer {
+.RkKIC,
+.cRDvbO,
+.dmLxWB,
+.gLxIAb,
+.gHwjbw,
+.WUPIv,
+.dQCdoR,
+.vtEGy,
+.kGXByO,
+.nav-tabs-custom,
+.box,
+.box-footer,
+.small-box>.small-box-footer {
 	background-color: transparent !important;
 	border-top: none !important;
 	box-shadow: none !important;
@@ -134,7 +275,8 @@
 
 /* Changes console */
 
-.LbmBV, .hahdAC {
+.LbmBV,
+.hahdAC {
 	border-radius: 15px !important;
 	background-color: #192E35 !important;
 	margin-bottom: .75vw !important;
@@ -143,7 +285,8 @@
 
 /* Changes console color */
 
-.xterm .xterm-screen, .xterm .xterm-viewport {
+.xterm .xterm-screen,
+.xterm .xterm-viewport {
 	background-color: #192E35 !important;
 }
 
@@ -169,7 +312,8 @@
 
 /* Changes console input */
 
-.JQChZ, .csimfD {
+.JQChZ,
+.csimfD {
 	border-color: #3F778A !important;
 	background-color: #203A43 !important;
 	border-radius: 15px !important;
@@ -191,7 +335,12 @@
 
 /* Changes schedule, Users, Network, File Manager */
 
-.kqnFDg, .kHuGmn, .hIHBYg, .eGIYvK, .bmqKpQ, .fQUMLV {
+.kqnFDg,
+.kHuGmn,
+.hIHBYg,
+.eGIYvK,
+.bmqKpQ,
+.fQUMLV {
 	border-radius: 15px !important;
 	overflow: hidden !important;
 	background-color: #203A43 !important;
@@ -204,54 +353,81 @@
 	color: #fafafa !important;
 }
 
+
 /* Changes console input */
 
-[type="text"], [type="email"], [type="url"], [type="password"], [type="number"], [type="date"], [type="datetime-local"], [type="month"], [type="search"], [type="tel"], [type="time"], [type="week"], [multiple], textarea, select {
+[type="text"],
+[type="email"],
+[type="url"],
+[type="password"],
+[type="number"],
+[type="date"],
+[type="datetime-local"],
+[type="month"],
+[type="search"],
+[type="tel"],
+[type="time"],
+[type="week"],
+[multiple],
+textarea,
+select {
 	background-color: #203A43 !important;
 	border-color: transparent !important;
 	color: #fafafa !important;
 	border-radius: 15px !important;
 }
 
+
 /* Changes check boxes */
 
-.uOUEk.uOUEk, .jVkAsT[type="checkbox"], .jVkAsT[type="radio"] {
+.uOUEk.uOUEk,
+.jVkAsT[type="checkbox"],
+.jVkAsT[type="radio"] {
 	border-radius: 15px !important;
-	background-color: #192E35 !important;	
+	background-color: #192E35 !important;
 	border-color: #3F778A !important;
 }
+
 
 /* Changes Sub-User */
 
 .ekHIsr::-webkit-scrollbar {
 	background: #203A43 !important;
 	border-radius: 15px !important;
-} 
+}
 
 .ekHIsr {
-		background-color: #203A43 !important;
-		border-radius: 15px !important;
+	background-color: #203A43 !important;
+	border-radius: 15px !important;
 }
+
 
 /* Fixes border radius when moving off of div */
 
-.icxFlO, .elUIig {
+.icxFlO,
+.elUIig {
 	border-radius: 15px !important;
 }
+
 
 /* Changes selected admin page */
 
 .skin-blue .sidebar-menu>li.active>a {
 	box-shadow: #3F778A 0px -2px inset !important;
 	border-left-color: #3F778A !important;
-	background-color: #192E35 !important;	
+	background-color: #192E35 !important;
 }
+
 
 /* Changes background color of hovered admin page */
 
-.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a, .skin-blue .main-header .navbar .sidebar-toggle:hover {
-	background-color: #192E35 !important;		
+.skin-blue .sidebar-menu>li:hover>a,
+.skin-blue .sidebar-menu>li.active>a,
+.skin-blue .sidebar-menu>li.menu-open>a,
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+	background-color: #192E35 !important;
 }
+
 
 /* Changes category name */
 
@@ -260,30 +436,44 @@
 	background-color: #192E35 !important;
 }
 
+
 /* Changes selected tab and background color */
 
-.nav-tabs-custom>.nav-tabs>li.active, .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+.nav-tabs-custom>.nav-tabs>li.active,
+.table>thead>tr>th,
+.table>tbody>tr>th,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>tbody>tr>td,
+.table>tfoot>tr>td {
 	border-top-color: #3F778A !important;
 	border-bottom-color: #3F778A !important;
-
 }
 
-.nav-tabs-custom>.nav-tabs>li.active>a, .nav-tabs-custom>.nav-tabs>li.active:hover>a {
-	background-color: #192E35 !important;	
+.nav-tabs-custom>.nav-tabs>li.active>a,
+.nav-tabs-custom>.nav-tabs>li.active:hover>a {
+	background-color: #192E35 !important;
 	border-color: transparent;
 }
 
-.nav-tabs-custom > .nav-tabs > li:hover {
-	border-top-color: #3F778A !important;	
+.nav-tabs-custom>.nav-tabs>li:hover {
+	border-top-color: #3F778A !important;
 }
+
 
 /* Removes border */
 
-.box-footer, hr {
+.box-footer,
+hr {
 	border-top: none !important;
 }
 
-
-.nav-tabs-custom>.nav-tabs>li.active, .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
-		background-color: #203A43 !important;	
+.nav-tabs-custom>.nav-tabs>li.active,
+.table>thead>tr>th,
+.table>tbody>tr>th,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>tbody>tr>td,
+.table>tfoot>tr>td {
+	background-color: #203A43 !important;
 }
