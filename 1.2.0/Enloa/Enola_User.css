@@ -42,7 +42,6 @@ body {
 .gSUxYg,
 .cdBzyv,
 .gxlLzB {
-
 	color: #fafafa !important;
 }
 
@@ -128,7 +127,7 @@ body {
 .ixeRNi:hover {
 	border-color: #3F778A !important;
 	background-color: #0F2229 !important;
-	border-radius: 15px;
+	border-radius: 15px !important;
 }
 
 /* Changes header-upper */
@@ -160,9 +159,9 @@ body {
 
 /* Changes console */
 .LbmBV {
-	border-radius: 15px;
-	background-color: #192E35;
-	margin-bottom: .75vw
+	border-radius: 15px !important;
+	background-color: #192E35 !important;
+	margin-bottom: .75vw !important;
 }
 
 /* Changes console color */
