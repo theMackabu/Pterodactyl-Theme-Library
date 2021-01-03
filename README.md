@@ -1,5 +1,3 @@
-## NOT COMPLETE, DO NOT USE ANY THEMES UNTIL 1/4/2021!!
-
 ## Will this break my panel? (IMPORTANT)
 This will not break your panel unless you use a diffrent theme version for a diffrent panel version, if it for some reason does break your panel it is simple to remove the theme.
 
@@ -18,7 +16,7 @@ Instructions to install the theme Enola are here
 
 ## Enola
 Instructions to install the theme Enola are here
-[Enola 1.2.0](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.1.3-Twilight)
+[Twilight 1.1.3](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.1.3-Twilight)
 ![Preview](./preview/twilight.png)
 
 
