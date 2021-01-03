@@ -7,14 +7,14 @@ body {
 
 /* Changes Header Color */
 
-.ebtnLL, .cWFcHc, .iTxXDX {
+.ebtnLL, .cWFcHc, .iTxXDX, .JZicT {
 	background-color: #203A43 !important;
 }
 
 
 /* Changes selected tab color */
 
-.fmPgAW>a:active, .fmPgAW>.navigation-link:active, .fmPgAW>a:hover, .fmPgAW>.navigation-link:hover, .fmPgAW>a.active, .fmPgAW>.navigation-link.active, .cWFcHc>div>a:active, .cWFcHc>div>div:active, .cWFcHc>div>a.active, .cWFcHc>div>div.active {
+.fmPgAW>a:active, .fmPgAW>.navigation-link:active, .fmPgAW>a:hover, .fmPgAW>.navigation-link:hover, .fmPgAW>a.active, .fmPgAW>.navigation-link.active, .cWFcHc>div>a:active, .cWFcHc>div>div:active, .cWFcHc>div>a.active, .cWFcHc>div>div.active, .jMDToC > a:active, .jMDToC > .navigation-link:active, .jMDToC > a:hover, .jMDToC > .navigation-link:hover, .jMDToC > a.active, .jMDToC > .navigation-link.active, .JZicT > div > a:active, .JZicT > div > div:active, .JZicT > div > a.active, .JZicT > div > div.active {
 	box-shadow: #3F778A 0px -2px inset !important;
 	background-color: #203A43 !important;
 }
@@ -22,7 +22,7 @@ body {
 
 /* Changes Text Color */
 
-.fNmetC, .hcJQtJ, .ToRTP, .dPhkRJ, .cKOMAz, .jSyjnD, .jywpgX, .eFKDEh, .dUzAFF, .cbFifO, .farUaV, .dMZZHB,.lgYuLu, .gSUxYg, .cdBzyv, .gxlLzB {
+.fNmetC, .hcJQtJ, .ToRTP, .dPhkRJ, .cKOMAz, .jSyjnD, .jywpgX, .eFKDEh, .dUzAFF, .cbFifO, .farUaV, .dMZZHB,.lgYuLu, .gSUxYg, .cdBzyv, .gxlLzB, .jexamK, .eWxPIu, .eWxPIu:hover, .jXGwrM, .mIIYh, .iambCQ, .iZqkRd, .chAlWS, .iTwxpv {
 	color: #fafafa !important;
 }
 
@@ -45,7 +45,7 @@ body {
 
 /* Changes server list color */
 
-.liBonM, .bOIdGn, .jkiDvQ, .iYhzbi, .jqQFoq, .bEKRkc {
+.liBonM, .bOIdGn, .jkiDvQ, .iYhzbi, .jqQFoq, .bEKRkc, .dRhlIo {
 	background-color: #203A43 !important;
 	border-radius: 15px !important;
 	border-color: #203A43 !important;
@@ -54,14 +54,14 @@ body {
 
 /* Changes border when hover */
 
-.liBonM:hover, .kHuGmn:hover {
+.liBonM:hover, .kHuGmn:hover, .dRhlIo:hover, .bEKRkc:hover {
 	border-color: #3F778A !important;
 }
 
 
 /* Changes status bar position and size */
 
-.jkiDvQ .status-bar, .bvinzM .status-bar, .iYhzbi .status-bar, .liBonM .status-bar, .jqQFoq .status-bar {
+.jkiDvQ .status-bar, .bvinzM .status-bar, .iYhzbi .status-bar, .liBonM .status-bar, .jqQFoq .status-bar,.bEKRkc .status-bar, .dRhlIo .status-bar {
 	height: 7vw !important;
 	right: -.25vw !important;
 }
@@ -69,7 +69,7 @@ body {
 
 /* Changes Installing Status, and other bubble text */
 
-.hNrKxe, .dMZZHB, .dHRxAp, .epSLdr, .bsrsDD, .ffSVrP {
+.hNrKxe, .dMZZHB, .dHRxAp, .epSLdr, .bsrsDD, .ffSVrP, .fZqvbJ, .fLfaAY, .bsSkeI, .jIIIrT, .EwfIk, .izAmwE {
 	border-radius: 15px;
 	background-color: #3F778A !important;
 	border-color: #3F778A !important;
@@ -86,7 +86,7 @@ body {
 
 /* Changes account settings area */
 
-.hfBvRz {
+.hfBvRz, .fenved {
 	border-radius: 15px;
 	background-color: #203A43 !important;
 	border-color: #3F778A !important;
@@ -95,7 +95,7 @@ body {
 
 /* Changes input areas */
 
-.eDhiE:not([type="checkbox"]):not([type="radio"]), .lepTyw:not([type="checkbox"]):not([type="radio"]), .eDhiE[type="checkbox"], .eDhiE[type="radio"], .hDlyZJ:not(.disabled):hover, .farUaV, .iZMsvi, .iYSUfg, .cKwXAB, .ixeRNi:hover {
+.eDhiE:not([type="checkbox"]):not([type="radio"]), .lepTyw:not([type="checkbox"]):not([type="radio"]), .eDhiE[type="checkbox"], .eDhiE[type="radio"], .hDlyZJ:not(.disabled):hover, .farUaV, .iZMsvi, .iYSUfg, .cKwXAB, .ixeRNi:hover, .jVkAsT:not([type="checkbox"]):not([type="radio"]), .kmvYjP:not([type="checkbox"]):not([type="radio"]), .hsUiOF, .jrraLb, .icxFlO:hover, .gYNKkb, .elUIig:hover, .ekbHAG {
 	border-color: #3F778A !important;
 	background-color: #0F2229 !important;
 	border-radius: 15px !important;
@@ -104,7 +104,7 @@ body {
 
 /* Changes header-upper */
 
-.kwjWaB, .grusjm, .cswOgL {
+.kwjWaB, .grusjm, .cswOgL, .cnbtLx, .bPeJFv, .bWXUsX {
 	border-color: #3F778A !important;
 	background-color: #203A43 !important;
 	border-radius: 15px !important;
@@ -114,7 +114,7 @@ body {
 
 /* Changes header-lower */
 
-.ifNwiE, .LdCMD {
+.ifNwiE, .LdCMD, .fIhPZJ, .cFegvH {
 	border-color: transparent !important;
 	background-color: #192E35 !important;
 	border-radius: 15px !important;
@@ -123,14 +123,14 @@ body {
 
 /* Hides background of radial areas */
 
-.RkKIC, .cRDvbO, .dmLxWB, .gLxIAb, .gHwjbw {
+.RkKIC, .cRDvbO, .dmLxWB, .gLxIAb, .gHwjbw, .WUPIv, .dQCdoR, .vtEGy, .kGXByO {
 	background-color: transparent !important;
 }
 
 
 /* Changes console */
 
-.LbmBV {
+.LbmBV, .hahdAC {
 	border-radius: 15px !important;
 	background-color: #192E35 !important;
 	margin-bottom: .75vw !important;
@@ -159,12 +159,13 @@ body {
 
 ::-webkit-scrollbar {
 	background: #192E35 !important;
+	border-radius: 15px;
 }
 
 
 /* Changes console input */
 
-.JQChZ {
+.JQChZ, .csimfD {
 	border-color: #3F778A !important;
 	background-color: #203A43 !important;
 	border-radius: 15px !important;
@@ -186,7 +187,7 @@ body {
 
 /* Changes schedule, Users, Network, File Manager */
 
-.kqnFDg, .kHuGmn, .hIHBYg, .eGIYvK {
+.kqnFDg, .kHuGmn, .hIHBYg, .eGIYvK, .bmqKpQ, .fQUMLV {
 	border-radius: 15px !important;
 	overflow: hidden;
 	background-color: #203A43 !important;
@@ -198,3 +199,35 @@ body {
 #app>div.sc-2l91w7-0.kDhnAT>div.sc-1p0gm8n-0.kaVYNu>section>div.x3r2dw-0.kbxq2g-0.evldyg.cZTZeB.fade-appear-done.fade-enter-done>div.sc-1xo9c6v-0.yy3pdt-3.gFWKai.hIHBYg>div.yy3pdt-4.irtdLf>div.yy3pdt-5.jCOUjK>svg {
 	color: #fafafa !important;
 }
+
+/* Changes console input */
+[type="text"], [type="email"], [type="url"], [type="password"], [type="number"], [type="date"], [type="datetime-local"], [type="month"], [type="search"], [type="tel"], [type="time"], [type="week"], [multiple], textarea, select {
+	background-color: #203A43 !important;
+	border-color: transparent !important;
+	color: #fafafa !important;
+	border-radius: 15px !important;
+}
+
+/* Changes check boxes */
+.uOUEk.uOUEk, .jVkAsT[type="checkbox"], .jVkAsT[type="radio"] {
+	border-radius: 15px !important;
+	background-color: #192E35 !important;	
+	border-color: #3F778A !important;
+}
+
+/* Changes Sub-User */
+.ekHIsr::-webkit-scrollbar {
+	background: #203A43 !important;
+	border-radius: 15px;
+} 
+
+.ekHIsr {
+		background-color: #203A43 !important;
+		border-radius: 15px !important;
+}
+
+/* Fixes border radius when moving off of div */
+.icxFlO, .elUIig {
+	border-radius: 15px;
+}
+
