@@ -1,3 +1,5 @@
+## NOT COMPLETE, DO NOT USE ANY THEMES UNTIL 1/4/2021!!
+
 ## Will this break my panel? (IMPORTANT)
 This will not break your panel unless you use a diffrent theme version for a diffrent panel version, if it for some reason does break your panel it is simple to remove the theme.
 
