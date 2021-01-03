@@ -15,5 +15,12 @@ Instructions to install the theme Enola are here
 [Enola 1.2.0](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.0-Enola)
 ![Preview](./preview/enola.png)
 
+
+## Enola
+Instructions to install the theme Enola are here
+[Enola 1.2.0](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.1.3-Twilight)
+![Preview](./preview/twilight.png)
+
+
 ## New Themes every week!!
 ## If you have suggestions or issues dm me on discord, notil#9999.
