@@ -166,16 +166,17 @@ body {     background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d
     background: none !important;
 }
 
-.dSNCQp, .gvMaEu {
+.dSNCQp, .gvMaEu, .itNhA {
     background-color: #7289da !important;
     color: #fbfbfb !important;
+    border-radisu: 15px !important;
 }
 
 .hTZfPi {
     background-color: #292841 !important;
 }
 
-.fdtlOj:not([type="checkbox"]):not([type="radio"]), .dpQpIr:not([type="checkbox"]):not([type="radio"]), .hmQOIN, .efoFdL, .gtPBni, .gVQCnr, .itNhA {
+.fdtlOj:not([type="checkbox"]):not([type="radio"]), .dpQpIr:not([type="checkbox"]):not([type="radio"]), .hmQOIN, .efoFdL, .gtPBni, .gVQCnr {
     background-color: #292841 !important;
     border-color: #292841 !important;
     color: #fafafa !important;
