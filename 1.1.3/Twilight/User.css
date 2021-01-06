@@ -175,9 +175,10 @@ body {     background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d
     background-color: #292841 !important;
 }
 
-.fdtlOj:not([type="checkbox"]):not([type="radio"]), .dpQpIr:not([type="checkbox"]):not([type="radio"]), .hmQOIN, .efoFdL, .gtPBni, .gVQCnr {
+.fdtlOj:not([type="checkbox"]):not([type="radio"]), .dpQpIr:not([type="checkbox"]):not([type="radio"]), .hmQOIN, .efoFdL, .gtPBni, .gVQCnr, .itNhA {
     background-color: #292841 !important;
     border-color: #292841 !important;
+    color: #fafafa !important;
 }
 
 .kckPpe, .cRBtKu {
