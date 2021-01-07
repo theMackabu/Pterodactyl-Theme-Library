@@ -15,7 +15,7 @@ Instructions to install the theme Enola are here
 ![Preview](./preview/enola.png)
 
 
-## Twilight - 1.1.3
+## Twilight - 1.1.3, 1.2.0, 1.2.1
 Instructions to install the theme Twilight are here
 [Twilight 1.1.3(Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.1.3-Twilight)
 [Twilight 1.2.0(Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.0-Twilight)
