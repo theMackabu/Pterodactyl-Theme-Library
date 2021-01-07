@@ -8,9 +8,11 @@ How do i use them?
 You simple follow the instructions below, mainly consisting of two or three changes you need to make before you build your panel.
 
 
-## Enola - 1.2.0
+## Enola - 1.2.0 and 1.2.1
 Instructions to install the theme Enola are here
 [Enola 1.2.0](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.0-Enola)
+and for 1.2.1 follow this guide
+[Enola 1.2.1](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.1-Enola)
 ![Preview](./preview/enola.png)
 
 
