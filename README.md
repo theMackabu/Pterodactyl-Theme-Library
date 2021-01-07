@@ -22,5 +22,8 @@ Instructions to install the theme Twilight are here
 [Twilight 1.2.1(Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/1.2.1-Twilight)
 ![Preview](./preview/twilight.png)
 
+## Recolor - 1.2.0, 1.2.1
+This theme is a recolor of the panel that you can edit, more information here
+[Recolor](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/Recolor)
 
 ## If you have suggestions or issues dm me on discord, notil#9999.
