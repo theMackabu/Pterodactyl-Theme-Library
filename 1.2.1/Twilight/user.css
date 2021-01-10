@@ -269,7 +269,8 @@ pre,
 .nav-tabs-custom,
 .box,
 .box-footer,
-.small-box>.small-box-footer {
+.small-box>.small-box-footer,
+.bceLDp {
 	background-color: transparent !important;
 	border-top: none !important;
 	box-shadow: none !important;
