@@ -153,9 +153,7 @@ background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .jIIIrT,
 .EwfIk,
 .izAmwE,
-code,
-.select2-container--default .select2-selection--multiple .select2-selection__choice,
-.select2-search--inline .select2-search__field:focus {
+code {
 	border-radius: 15px;
 	background-color: #7289da !important;
 	border-color: #7289da !important;
