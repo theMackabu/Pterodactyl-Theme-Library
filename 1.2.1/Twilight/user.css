@@ -211,7 +211,6 @@ code,
 .btn-warning,
 .btn-success,
 .alert-danger,
-pre,
 .input-group .input-group-addon,
 .select2-container--default .select2-selection--single,
 .select2-container--default .select2-selection--multiple {
@@ -494,10 +493,7 @@ hr {
 
 /* Fixes file manager */
 
-.CodeMirror-code, .CodeMirror-gutter, .CodeMirror-lines, .CodeMirror-overlayscroll-vertical {
-		background-color: #1e1d2d !important;
-}
-
-.hWjPIP .CodeMirror-linenumber {
+.CodeMirror-lines, .cm-s-ayu-mirage .CodeMirror-linenumber, .CodeMirror-foldgutter, .CodeMirror-overlayscroll-vertical {
+	background: #1e1d2d !important;
 	color: #fafafa !important;
-}
+}	
