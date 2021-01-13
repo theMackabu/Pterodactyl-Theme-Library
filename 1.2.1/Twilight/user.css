@@ -491,3 +491,13 @@ hr {
 .xterm .xterm-viewport::-webkit-scrollbar {
 	background: #1e1d2d !important;
 }
+
+/* Fixes file manager */
+
+.CodeMirror-code, .CodeMirror-gutter, .CodeMirror-lines, .CodeMirror-overlayscroll-vertical {
+		background-color: #1e1d2d !important;
+}
+
+.hWjPIP .CodeMirror-linenumber {
+	color: #fafafa !important;
+}
