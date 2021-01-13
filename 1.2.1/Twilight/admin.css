@@ -155,8 +155,7 @@ background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .izAmwE,
 code,
 .select2-container--default .select2-selection--multiple .select2-selection__choice,
-.select2-search--inline .select2-search__field:focus,
-.select2-container--default .select2-search--inline .select2-search__field {
+.select2-search--inline .select2-search__field:focus, {
 	border-radius: 15px;
 	background-color: #7289da !important;
 	border-color: #7289da !important;
@@ -211,7 +210,6 @@ code,
 .btn-warning,
 .btn-success,
 .alert-danger,
-pre,
 .input-group .input-group-addon,
 .select2-container--default .select2-selection--single,
 .select2-container--default .select2-selection--multiple {
@@ -269,7 +267,8 @@ pre,
 .nav-tabs-custom,
 .box,
 .box-footer,
-.small-box>.small-box-footer {
+.small-box>.small-box-footer,
+.bceLDp {
 	background-color: transparent !important;
 	border-top: none !important;
 	box-shadow: none !important;
@@ -479,14 +478,21 @@ hr {
 	background-color: #1e1d2d !important;
 }
 
+/* Removes port bubble */
+
+.cxwlaX {
+	background: #1e1d2d !important;
+}
+
 /* Fixes console scroll bar */
 
 .xterm .xterm-viewport::-webkit-scrollbar {
 	background: #1e1d2d !important;
 }
 
-/* Removes port bubble */
+/* Fixes file manager */
 
-.bceLDp {
-	background: transparent !important;
-}
+.CodeMirror-lines, .cm-s-ayu-mirage .CodeMirror-linenumber, .CodeMirror-foldgutter, .CodeMirror-overlayscroll-vertical {
+	background: #1e1d2d !important;
+	color: #fafafa !important;
+}	
