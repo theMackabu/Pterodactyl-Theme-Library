@@ -494,3 +494,19 @@ hr {
 	background: #1e1d2d !important;
 	color: #fafafa !important;
 }	
+
+/* Fixes node config */
+
+pre, #configTokenBtn  {
+	border-color: #413f66 !important;
+	background-color: #1e1d2d !important;
+	border-radius: 15px !important;
+}
+
+.box-body {
+	transform: scale(.98) !important;
+}
+
+.ifNwiE, .LdCMD, .fIhPZJ, .cFegvH, .box-body {
+	transform: scale(.98) !important;	
+}
