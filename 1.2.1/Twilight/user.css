@@ -490,7 +490,7 @@ hr {
 
 /* Fixes file manager */
 
-.CodeMirror-lines, .cm-s-ayu-mirage .CodeMirror-linenumber, .CodeMirror-foldgutter, .CodeMirror-overlayscroll-vertical {
+.CodeMirror-lines, .cm-s-ayu-mirage .CodeMirror-linenumber, .CodeMirror-foldgutter, .CodeMirror-overlayscroll-vertical, .CodeMirror-scroll {
 	background: #1e1d2d !important;
 	color: #fafafa !important;
 }	
