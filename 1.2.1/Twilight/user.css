@@ -507,7 +507,7 @@ hr {
 	transform: scale(.98) !important;	
 }
 
-.info-box {
+.info-box, .info-box-icon {
 	border-radius: 15px !important;
 }
 
@@ -516,6 +516,5 @@ hr {
 .CodeMirror-scroll, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
 	border-color: #413f66 !important;
 	background-color: #1e1d2d !important;
-	border-radius: 15px !important;
 	color: #fafafa !important;
 }
