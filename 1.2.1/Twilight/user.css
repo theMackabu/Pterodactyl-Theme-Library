@@ -491,13 +491,6 @@ hr {
 	background: #1e1d2d !important;
 }
 
-/* Fixes file manager */
-
-.CodeMirror-lines, .cm-s-ayu-mirage .CodeMirror-linenumber, .CodeMirror-foldgutter, .CodeMirror-overlayscroll-vertical {
-	background: #1e1d2d !important;
-	color: #fafafa !important;
-}	
-
 /* Fixes node config */
 
 pre, #configTokenBtn  {
