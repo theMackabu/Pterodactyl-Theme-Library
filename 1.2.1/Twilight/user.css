@@ -493,7 +493,7 @@ hr {
 
 /* Fixes node config */
 
-pre, #configTokenBtn  {
+#configTokenBtn, body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div:nth-child(2) > div > div.box-body.table-responsive > pre, body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div.box-body > pre  {
 	border-color: #413f66 !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
@@ -505,4 +505,17 @@ pre, #configTokenBtn  {
 
 .ifNwiE, .LdCMD, .fIhPZJ, .cFegvH, .box-body {
 	transform: scale(.98) !important;	
+}
+
+.info-box {
+	border-radius: 15px !important;
+}
+
+/* Fixes file editor */
+
+.CodeMirror-scroll, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
+	border-color: #413f66 !important;
+	background-color: #1e1d2d !important;
+	border-radius: 15px !important;
+	color: #fafafa !important;
 }
