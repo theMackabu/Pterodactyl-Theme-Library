@@ -1,7 +1,8 @@
 /* Changes Background */
 
-body, .content-wrapper {
-background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj48ZGVmcz48cGF0dGVybiBpZD0icGF0dGVybiIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgNDAsNDAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiIHBhdHRlcm5UcmFuc2Zvcm09InJvdGF0ZSgxMjApICI+PHJlY3QgaWQ9InBhdHRlcm4tYmFja2dyb3VuZCIgd2lkdGg9IjQwMCUiIGhlaWdodD0iNDAwJSIgZmlsbD0icmdiYSg0MSwgNDAsIDY1LDEpIj48L3JlY3Q+IDxwYXRoIGZpbGw9InJnYmEoMjQ3LCAyNTAsIDI1MiwxKSIgZD0iTS0xIDIwIGgyIHYyIGgtMiB6TTM5IDIwIGgyIHYyIGgtMiB6Ij48L3BhdGg+PHBhdGggZmlsbD0icmdiYSgxMTQsIDEzNywgMjE4LDEpIiBkPSJNMTkuNSAyMCBoMSB2MiBoLTEgek01OS41IDIwIGgxIHYyIGgtMSB6Ij48L3BhdGg+PC9wYXR0ZXJuPiAgPC9kZWZzPiA8cmVjdCBmaWxsPSJ1cmwoI3BhdHRlcm4pIiBoZWlnaHQ9IjEwMCUiIHdpZHRoPSIxMDAlIj48L3JlY3Q+PC9zdmc+") !important;
+body,
+.content-wrapper {
+	background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj48ZGVmcz48cGF0dGVybiBpZD0icGF0dGVybiIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgNDAsNDAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiIHBhdHRlcm5UcmFuc2Zvcm09InJvdGF0ZSgxMjApICI+PHJlY3QgaWQ9InBhdHRlcm4tYmFja2dyb3VuZCIgd2lkdGg9IjQwMCUiIGhlaWdodD0iNDAwJSIgZmlsbD0icmdiYSg0MSwgNDAsIDY1LDEpIj48L3JlY3Q+IDxwYXRoIGZpbGw9InJnYmEoMjQ3LCAyNTAsIDI1MiwxKSIgZD0iTS0xIDIwIGgyIHYyIGgtMiB6TTM5IDIwIGgyIHYyIGgtMiB6Ij48L3BhdGg+PHBhdGggZmlsbD0icmdiYSgxMTQsIDEzNywgMjE4LDEpIiBkPSJNMTkuNSAyMCBoMSB2MiBoLTEgek01OS41IDIwIGgxIHYyIGgtMSB6Ij48L3BhdGg+PC9wYXR0ZXJuPiAgPC9kZWZzPiA8cmVjdCBmaWxsPSJ1cmwoI3BhdHRlcm4pIiBoZWlnaHQ9IjEwMCUiIHdpZHRoPSIxMDAlIj48L3JlY3Q+PC9zdmc+") !important;
 }
 
 
@@ -78,8 +79,8 @@ background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .chAlWS,
 .iTwxpv,
 .skin-blue .main-header .logo,
-.jVPRyV, 
-.khFmcN{
+.jVPRyV,
+.khFmcN {
 	color: #fafafa !important;
 }
 
@@ -210,10 +211,70 @@ code {
 .btn-primary,
 .btn-warning,
 .btn-success,
+.btn-danger,
 .alert-danger,
 .input-group .input-group-addon,
 .select2-container--default .select2-selection--single,
-.select2-container--default .select2-selection--multiple {
+.select2-container--default .select2-selection--multiple,
+.bg-red,
+.bg-yellow,
+.bg-aqua,
+.bg-blue,
+.bg-light-blue,
+.bg-green,
+.bg-navy,
+.bg-teal,
+.bg-olive,
+.bg-lime,
+.bg-orange,
+.bg-fuchsia,
+.bg-purple,
+.bg-maroon,
+.bg-black,
+.bg-red-active,
+.bg-yellow-active,
+.bg-aqua-active,
+.bg-blue-active,
+.bg-light-blue-active,
+.bg-green-active,
+.bg-navy-active,
+.bg-teal-active,
+.bg-olive-active,
+.bg-lime-active,
+.bg-orange-active,
+.bg-fuchsia-active,
+.bg-purple-active,
+.bg-maroon-active,
+.bg-black-active,
+.callout.callout-danger,
+.callout.callout-warning,
+.callout.callout-info,
+.callout.callout-success,
+.alert-success,
+.alert-danger,
+.alert-error,
+.alert-warning,
+.alert-info,
+.label-danger,
+.label-info,
+.label-warning,
+.label-primary,
+.label-success,
+.modal-primary .modal-body,
+.modal-primary .modal-header,
+.modal-primary .modal-footer,
+.modal-warning .modal-body,
+.modal-warning .modal-header,
+.modal-warning .modal-footer,
+.modal-info .modal-body,
+.modal-info .modal-header,
+.modal-info .modal-footer,
+.modal-success .modal-body,
+.modal-success .modal-header,
+.modal-success .modal-footer,
+.modal-danger .modal-body,
+.modal-danger .modal-header,
+.modal-danger .modal-footer {
 	border-color: #413f66 !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
@@ -234,7 +295,7 @@ code {
 	border-color: #1e1d2d !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
-    margin-bottom: .25vw !important;
+	margin-bottom: .25vw !important;
 	margin-top: .25vw !important;
 	transform: scale(.96);
 }
@@ -309,7 +370,6 @@ code {
 
 ::-webkit-scrollbar {
 	background: #242338 !important;
-
 }
 
 
@@ -321,9 +381,8 @@ code {
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
 	transform: scale(0.95) !important;
-    margin-top: .25vw !important;
+	margin-top: .25vw !important;
 }
-
 
 
 /* Changes input text area */
@@ -332,7 +391,7 @@ code {
 	border-color: #7289da !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
-    margin-top: .25vw !important;
+	margin-top: .25vw !important;
 }
 
 
@@ -462,6 +521,7 @@ select {
 	border-top-color: #7289da !important;
 }
 
+
 /* Removes border */
 
 .box-footer,
@@ -479,11 +539,13 @@ hr {
 	background-color: #1e1d2d !important;
 }
 
+
 /* Removes port bubble */
 
 .cxwlaX {
 	background: #1e1d2d !important;
 }
+
 
 /* Fixes console scroll bar */
 
@@ -491,9 +553,12 @@ hr {
 	background: #1e1d2d !important;
 }
 
+
 /* Fixes node config */
 
-#configTokenBtn, body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div:nth-child(2) > div > div.box-body.table-responsive > pre, body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div.box-body > pre  {
+#configTokenBtn,
+body>div>div>section.content>div:nth-child(3)>div.col-sm-8>div>div:nth-child(2)>div>div.box-body.table-responsive>pre,
+body>div>div>section.content>div:nth-child(3)>div.col-sm-8>div>div.box-body>pre {
 	border-color: #413f66 !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
@@ -503,31 +568,48 @@ hr {
 	transform: scale(.98) !important;
 }
 
-.ifNwiE, .LdCMD, .fIhPZJ, .cFegvH, .box-body {
-	transform: scale(.98) !important;	
+.ifNwiE,
+.LdCMD,
+.fIhPZJ,
+.cFegvH,
+.box-body {
+	transform: scale(.98) !important;
 }
 
-.info-box, .info-box-icon {
+.info-box,
+.info-box-icon {
 	border-radius: 15px !important;
 }
 
+
 /* Fixes file editor */
 
-.CodeMirror-scroll, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
+.CodeMirror-scroll,
+.CodeMirror-sizer,
+.CodeMirror-gutter,
+.CodeMirror-gutters,
+.CodeMirror-linenumber {
 	border-color: #413f66 !important;
 	background-color: #1e1d2d !important;
 	color: #fafafa !important;
 }
 
+
 /* Fixes admin input areas and radius */
 
-input.form-control, .btn-default, input.form-control {
+input.form-control,
+.btn-default,
+input.form-control {
 	border-color: #413f66 !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
 }
 
-.ifNwiE, .LdCMD, .fIhPZJ, .cFegvH, .box-body {
+.ifNwiE,
+.LdCMD,
+.fIhPZJ,
+.cFegvH,
+.box-body {
 	background-color: #242338 !important;
 }
 
@@ -539,6 +621,64 @@ input.form-control, .btn-default, input.form-control {
 	margin-right: .25vw !important;
 }
 
-.bg-red, .bg-yellow, .bg-aqua, .bg-blue, .bg-light-blue, .bg-green, .bg-navy, .bg-teal, .bg-olive, .bg-lime, .bg-orange, .bg-fuchsia, .bg-purple, .bg-maroon, .bg-black, .bg-red-active, .bg-yellow-active, .bg-aqua-active, .bg-blue-active, .bg-light-blue-active, .bg-green-active, .bg-navy-active, .bg-teal-active, .bg-olive-active, .bg-lime-active, .bg-orange-active, .bg-fuchsia-active, .bg-purple-active, .bg-maroon-active, .bg-black-active, .callout.callout-danger, .callout.callout-warning, .callout.callout-info, .callout.callout-success, .alert-success, .alert-danger, .alert-error, .alert-warning, .alert-info, .label-danger, .label-info, .label-warning, .label-primary, .label-success, .modal-primary .modal-body, .modal-primary .modal-header, .modal-primary .modal-footer, .modal-warning .modal-body, .modal-warning .modal-header, .modal-warning .modal-footer, .modal-info .modal-body, .modal-info .modal-header, .modal-info .modal-footer, .modal-success .modal-body, .modal-success .modal-header, .modal-success .modal-footer, .modal-danger .modal-body, .modal-danger .modal-header, .modal-danger .modal-footer {
+.bg-red,
+.bg-yellow,
+.bg-aqua,
+.bg-blue,
+.bg-light-blue,
+.bg-green,
+.bg-navy,
+.bg-teal,
+.bg-olive,
+.bg-lime,
+.bg-orange,
+.bg-fuchsia,
+.bg-purple,
+.bg-maroon,
+.bg-black,
+.bg-red-active,
+.bg-yellow-active,
+.bg-aqua-active,
+.bg-blue-active,
+.bg-light-blue-active,
+.bg-green-active,
+.bg-navy-active,
+.bg-teal-active,
+.bg-olive-active,
+.bg-lime-active,
+.bg-orange-active,
+.bg-fuchsia-active,
+.bg-purple-active,
+.bg-maroon-active,
+.bg-black-active,
+.callout.callout-danger,
+.callout.callout-warning,
+.callout.callout-info,
+.callout.callout-success,
+.alert-success,
+.alert-danger,
+.alert-error,
+.alert-warning,
+.alert-info,
+.label-danger,
+.label-info,
+.label-warning,
+.label-primary,
+.label-success,
+.modal-primary .modal-body,
+.modal-primary .modal-header,
+.modal-primary .modal-footer,
+.modal-warning .modal-body,
+.modal-warning .modal-header,
+.modal-warning .modal-footer,
+.modal-info .modal-body,
+.modal-info .modal-header,
+.modal-info .modal-footer,
+.modal-success .modal-body,
+.modal-success .modal-header,
+.modal-success .modal-footer,
+.modal-danger .modal-body,
+.modal-danger .modal-header,
+.modal-danger .modal-footer {
 	border-radius: 15px !important;
 }
