@@ -682,3 +682,21 @@ input.form-control {
 .modal-danger .modal-footer {
 	border-radius: 15px !important;
 }
+
+/* Fixes login page */
+
+.eWTBmo, .kZiVrb, .kZiVrb:hover, .kdZiuU, .fMOYf, .fMOYf:hover {
+	color: #fafafa !important;
+}
+
+.dVhqhq {
+	background-color: #242338 !important;
+	border-color: transparent !important;
+	box-shadow: none !important;
+}
+
+.fPcGHZ:not([type="checkbox"]):not([type="radio"]) {
+	border-color: #413f66 !important;
+	background-color: #1e1d2d !important;
+	border-radius: 15px !important;	
+}
