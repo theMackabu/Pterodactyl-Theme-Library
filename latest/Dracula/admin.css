@@ -506,7 +506,7 @@ hr {
 /* Fixes login page */
 
 .eWTBmo, .kZiVrb, .kZiVrb:hover, .kdZiuU, .fMOYf, .fMOYf:hover {
-	color: #fafafa !important;
+	color: var(--text-color) !important;
 }
 
 .dVhqhq {
@@ -518,5 +518,84 @@ hr {
 .fPcGHZ:not([type="checkbox"]):not([type="radio"]) {
 	border-color: var(--accent-color) !important;
 	background-color: var(--secondary-bg-color-alt); !important;
-	border-radius: 15px !important;	
+	border-radius: var(--border-radius) !important;	
+}
+
+/* Fixes search button */
+
+.btn-default {
+	border-color: var(--accent-secondary-color) !important;
+	background-color: var(--secondary-bg-color-alt) !important;
+	border-radius: var(--border-radius) !important;	
+}
+
+.btn-default {
+	margin-right: .25vw !important;
+}
+
+.input-group .form-control {
+	margin-right: .25vw !important;
+}
+
+.bg-red,
+.bg-yellow,
+.bg-aqua,
+.bg-blue,
+.bg-light-blue,
+.bg-green,
+.bg-navy,
+.bg-teal,
+.bg-olive,
+.bg-lime,
+.bg-orange,
+.bg-fuchsia,
+.bg-purple,
+.bg-maroon,
+.bg-black,
+.bg-red-active,
+.bg-yellow-active,
+.bg-aqua-active,
+.bg-blue-active,
+.bg-light-blue-active,
+.bg-green-active,
+.bg-navy-active,
+.bg-teal-active,
+.bg-olive-active,
+.bg-lime-active,
+.bg-orange-active,
+.bg-fuchsia-active,
+.bg-purple-active,
+.bg-maroon-active,
+.bg-black-active,
+.callout.callout-danger,
+.callout.callout-warning,
+.callout.callout-info,
+.callout.callout-success,
+.alert-success,
+.alert-danger,
+.alert-error,
+.alert-warning,
+.alert-info,
+.label-danger,
+.label-info,
+.label-warning,
+.label-primary,
+.label-success,
+.modal-primary .modal-body,
+.modal-primary .modal-header,
+.modal-primary .modal-footer,
+.modal-warning .modal-body,
+.modal-warning .modal-header,
+.modal-warning .modal-footer,
+.modal-info .modal-body,
+.modal-info .modal-header,
+.modal-info .modal-footer,
+.modal-success .modal-body,
+.modal-success .modal-header,
+.modal-success .modal-footer,
+.modal-danger .modal-body,
+.modal-danger .modal-header,
+.modal-danger .modal-footer {
+	border-radius: var(--border-radius) !important;
+
 }
