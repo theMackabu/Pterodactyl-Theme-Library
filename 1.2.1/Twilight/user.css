@@ -700,3 +700,16 @@ input.form-control {
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;	
 }
+
+/* Fixes nest, eggs, and mounts */
+
+.modal-body, .modal-header, .modal-footer {
+	border-color: #1e1d2d !important;
+	background-color: #1e1d2d !important;
+}
+
+textarea.form-control {
+	border-color: #413f66 !important;
+	background-color: #1e1d2d !important;
+	border-radius: 15px !important;	
+}
