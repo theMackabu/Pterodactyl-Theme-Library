@@ -10,18 +10,18 @@ How do i use them?
 You simple follow the instructions below, mainly consisting of two or three changes you need to make before you build your panel.
 
 
-## Enola - 1.2.0 and 1.2.1
+## Enola - 1.2.0, 1.2.1, and 1.2.2
 Instructions to install the theme Enola are here
-[Enola 1.2.0(Latest Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/latest-Enola)
+[Enola 1.2.2(Latest Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/latest-Enola)
 ![Preview](./preview/enola.png)
 
 
-## Twilight - 1.1.3, 1.2.0, 1.2.1
+## Twilight - 1.1.3, 1.2.0, 1.2.1, 1.2.2
 Instructions to install the theme Twilight are here
-[Enola 1.2.0(Latest Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/latest-Twilight)
+[Enola 1.2.2(Latest Panel Version)](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/latest-Twilight)
 ![Preview](./preview/twilight.png)
 
-## Recolor - 1.2.0, 1.2.1
+## Recolor - 1.2.0, 1.2.1, 1.2.2
 This theme is a recolor of the panel that you can edit, more information here
 [Recolor](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/Recolor)
 
