@@ -506,7 +506,7 @@ hr {
 /* Fixes login page */
 
 .eWTBmo, .kZiVrb, .kZiVrb:hover, .kdZiuU, .fMOYf, .fMOYf:hover {
-	color: #fafafa !important;
+	color: var(--text-color) !important;
 }
 
 .dVhqhq {
@@ -518,7 +518,7 @@ hr {
 .fPcGHZ:not([type="checkbox"]):not([type="radio"]) {
 	border-color: var(--accent-color) !important;
 	background-color: var(--secondary-bg-color-alt); !important;
-	border-radius: 15px !important;	
+	border-radius: var(--border-radius) !important;	
 }
 
 /* Fixes search button */
@@ -596,5 +596,6 @@ hr {
 .modal-danger .modal-body,
 .modal-danger .modal-header,
 .modal-danger .modal-footer {
-	border-radius: 15px !important;
+	border-radius: var(--border-radius) !important;
+
 }
