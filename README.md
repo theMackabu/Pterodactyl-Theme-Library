@@ -25,4 +25,9 @@ Instructions to install the theme Twilight are here
 This theme is a recolor of the panel that you can edit, more information here
 [Recolor](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/Recolor)
 
+## Dracula - 1.2.0, 1.2.1, 1.2.2
+This theme is a recolor of the panel that you can edit, more information here
+[Dracula](https://github.com/Conjuringil/Pterodactyl-Theme-Library/wiki/latest-Dracula)
+![Preview](./preview/Dracula.png)
+![Preview](./preview/Dracula2.png)
 ## If you have suggestions or issues dm me on discord, notil#9999.
