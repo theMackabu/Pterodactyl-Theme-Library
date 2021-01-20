@@ -503,3 +503,21 @@ hr {
 .xterm .xterm-viewport::-webkit-scrollbar {
 	background: var(--secondary-bg-color-alt) !important;
 }
+
+/* Fixes login page */
+
+.eWTBmo, .kZiVrb, .kZiVrb:hover, .kdZiuU, .fMOYf, .fMOYf:hover {
+	color: #fafafa !important;
+}
+
+.dVhqhq {
+	background-color: var(--secondary-bg-color) !important;
+	border-color: transparent !important;
+	box-shadow: none !important;
+}
+
+.fPcGHZ:not([type="checkbox"]):not([type="radio"]) {
+	border-color: var(--accent-color) !important;
+	background-color: var(--secondary-bg-color-alt); !important;
+	border-radius: 15px !important;	
+}
