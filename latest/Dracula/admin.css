@@ -630,6 +630,6 @@ hr {
 .CodeMirror-gutters,
 .CodeMirror-linenumber {
 	border-color: var(--accent-color) !important;
-	background-color: var(--accent-secondary-color) !important;
+	background-color: var(--secondary-bg-color) !important;
 	color: var(--text-color) !important;
 }
