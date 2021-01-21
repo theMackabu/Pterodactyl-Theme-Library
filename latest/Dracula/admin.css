@@ -605,7 +605,7 @@ hr {
 /* Fixes server list number */
 
 .xkLPZ {
-	border-radius: 100%;
+	border-radius: 100% !important;
 }
 
 .gKREGI:not(:disabled) {
