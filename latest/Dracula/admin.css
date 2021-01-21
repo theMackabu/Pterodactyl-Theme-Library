@@ -621,3 +621,15 @@ hr {
 	background-color: var(--accent-color) !important;
 	border-color: var(--accent-color) !important;	
 }
+
+/* Fixes file editor */
+
+.CodeMirror-scroll,
+.CodeMirror-sizer,
+.CodeMirror-gutter,
+.CodeMirror-gutters,
+.CodeMirror-linenumber {
+	border-color: var(--accent-color) !important;
+	background-color: var(--accent-secondary-color) !important;
+	color: var(--text-color) !important;
+}
