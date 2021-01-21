@@ -633,3 +633,47 @@ hr {
 	background-color: var(--secondary-bg-color) !important;
 	color: var(--text-color) !important;
 }
+
+/* Fixes Admin areas. */
+
+.box-body {
+	transform: scale(.98) !important;
+}
+
+.ifNwiE,
+.LdCMD,
+.fIhPZJ,
+.cFegvH,
+.box-body {
+	transform: scale(.98) !important;
+}
+
+.info-box,
+.info-box-icon {
+	border-radius: 15px !important;
+}
+
+body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div.box-body > pre, textarea.form-control, input.form-control, body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div.box-body > pre {
+	border-color: var(--accent-secondary-color) !important;
+	background-color: var(--secondary-bg-color-alt) !important;
+	border-radius: var(--border-radius) !important;
+}
+
+.hNrKxe, .dMZZHB, .dHRxAp, .epSLdr, .bsrsDD, .ffSVrP, .fZqvbJ, .fLfaAY, .bsSkeI, .jIIIrT, .EwfIk, .izAmwE, code, .select2-container--default .select2-selection--multiple .select2-selection__choice, .select2-search--inline .select2-search__field:focus, .select2-container--default .select2-search--inline .select2-search__field {
+	background: transparent !important;
+	color: #fafafa !important;
+}
+
+/* Fixes nest, eggs, and mounts */
+
+.modal-body, .modal-header, .modal-footer {
+	background-color: var(--secondary-bg-color) !important;
+	border-color: var(--secondary-bg-color-alt) !important;
+}
+
+textarea.form-control, input.form-control {
+	border-color: var(--accent-secondary-color) !important;
+	background-color: var(--secondary-bg-color-alt) !important;
+	border-radius: var(--border-radius) !important;
+}
+
