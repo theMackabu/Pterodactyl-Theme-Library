@@ -91,10 +91,15 @@ body, .content-wrapper {
 .skin-blue .main-header .logo,
 .jVPRyV,
 .cvDOmk,
-.dRhlIo .icon {
+.dRhlIo .icon,
+.hmodKy,
+.beRAKh {
 	color: var(--text-color) !important;
 }
 
+.gqmhN {
+	display: none !important;
+}
 
 /* Changes disabled switch */
 
