@@ -6,6 +6,7 @@
   --accent-secondary-color: #bd93f9 !important;
   --text-color: #fafafa !important;
   --border-radius: 15px !important;
+  --accent-light: #d4b5ff !important;
 }
 
 /* Changes Background */
@@ -599,4 +600,25 @@ hr {
 .modal-danger .modal-footer {
 	border-radius: var(--border-radius) !important;
 
+}
+
+/* Fixes server list number */
+
+.xkLPZ {
+	border-radius: 100%;
+}
+
+.gKREGI:not(:disabled) {
+	background-color: var(--accent-light) !important;
+	border-color: var(--accent-light) !important;
+}
+
+.gKREGI:hover:not(:disabled) {
+	background-color: var(--accent-color) !important;
+	border-color: var(--accent-color) !important;	
+}
+
+.bRKaoy:hover:not(:disabled) {
+	background-color: var(--accent-color) !important;
+	border-color: var(--accent-color) !important;	
 }
