@@ -321,7 +321,7 @@ code,
 }
 
 ::-webkit-scrollbar {
-	background: var(--secondary-bg-color) !important;
+	background: var(--main-bg-color) !important;
 
 }
 
