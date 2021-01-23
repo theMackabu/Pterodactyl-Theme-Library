@@ -232,7 +232,8 @@ code,
 .alert-danger,
 .input-group .input-group-addon,
 .select2-container--default .select2-selection--single,
-.select2-container--default .select2-selection--multiple {
+.select2-container--default .select2-selection--multiple,
+.content-header>.breadcrumb {
 	border-color: var(--accent-secondary-color) !important;
 	background-color: var(--secondary-bg-color-alt) !important;
 	border-radius: var(--border-radius) !important;
