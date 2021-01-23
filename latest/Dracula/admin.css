@@ -684,3 +684,35 @@ textarea.form-control, input.form-control {
 	background-color: var(--secondary-bg-color-alt) !important;
 	border-radius: var(--border-radius) !important;
 }
+
+/* Fixes selection for admin pages. */
+
+.select2-results__option {
+	color: #fafafa !important;
+	background: #282a36  !important;
+}
+
+.select2-container--open .select2-dropdown--below {
+	margin-top: .25vw !important; 
+	border: none !important
+	border-radius: 15px !important;
+}
+
+.select2-container--default .select2-results>.select2-results__options {
+	border-radius: 15px !important;
+}
+
+.select2-dropdown {
+	border-radius: 15px !important;
+	background: transparent !important;
+	border: none !important;
+
+}
+
+.select2-results__options::-webkit-scrollbar, .select2-results::-webkit-scrollbar {
+	display: none !important;
+}
+
+::-webkit-scrollbar {
+	display: none !important;
+}
