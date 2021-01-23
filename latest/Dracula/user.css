@@ -712,7 +712,3 @@ textarea.form-control, input.form-control {
 .select2-results__options::-webkit-scrollbar, .select2-results::-webkit-scrollbar {
 	display: none !important;
 }
-
-::-webkit-scrollbar {
-	display: none !important;
-}
