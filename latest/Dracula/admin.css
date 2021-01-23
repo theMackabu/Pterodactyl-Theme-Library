@@ -233,7 +233,7 @@ code,
 .input-group .input-group-addon,
 .select2-container--default .select2-selection--single,
 .select2-container--default .select2-selection--multiple,
-content-header>.breadcrumb,
+.content-header>.breadcrumb,
 body > div > div > section.content > div:nth-child(3) > div.col-sm-8 > div > div:nth-child(2) > div > div.box-body.table-responsive > pre {
 	border-color: var(--accent-secondary-color) !important;
 	background-color: var(--secondary-bg-color-alt) !important;
